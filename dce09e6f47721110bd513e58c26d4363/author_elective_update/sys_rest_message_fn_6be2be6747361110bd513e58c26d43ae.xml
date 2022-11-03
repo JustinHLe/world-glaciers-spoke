@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Demo  [ Default GET ]</qualified_name>
+        <rest_endpoint>https://sndevapiserver.service-now.com/api/x_snc_world_glacie/v1/world_glaciers/getglaciers/latlong?num_recs_per_page=3&amp;first_rec=1908</rest_endpoint>
+        <rest_message display_value="Demo ">33d2f2e747361110bd513e58c26d43b5</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 18:47:23</sys_created_on>
+        <sys_id>6be2be6747361110bd513e58c26d43ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_928932_world_gla">dce09e6f47721110bd513e58c26d4363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">dce09e6f47721110bd513e58c26d4363</sys_scope>
+        <sys_update_name>sys_rest_message_fn_6be2be6747361110bd513e58c26d43ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 18:48:28</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="World Glaciers Spoke">dce09e6f47721110bd513e58c26d4363</application>
+        <file_path/>
+        <instance_id>b03241dcdbc07c10e26fd7c8f4961949</instance_id>
+        <instance_name>dev113598</instance_name>
+        <name>sys_rest_message_fn_6be2be6747361110bd513e58c26d43ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Demo  [ Default GET ]</qualified_name><rest_endpoint>https://sndevapiserver.service-now.com/api/x_snc_world_glacie/v1/world_glaciers/getglaciers/latlong?num_recs_per_page=3&amp;first_rec=1908</rest_endpoint><rest_message display_value="Demo ">33d2f2e747361110bd513e58c26d43b5</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-02 18:47:23</sys_created_on><sys_id>6be2be6747361110bd513e58c26d43ae</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="World Glaciers Spoke" source="x_928932_world_gla">dce09e6f47721110bd513e58c26d4363</sys_package><sys_policy/><sys_scope display_value="World Glaciers Spoke">dce09e6f47721110bd513e58c26d4363</sys_scope><sys_update_name>sys_rest_message_fn_6be2be6747361110bd513e58c26d43ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-02 18:48:28</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>1579404580</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>dce09e6f47721110bd513e58c26d4365</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 18:48:28</sys_created_on>
+        <sys_id>6f233a6747361110bd513e58c26d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18439ac5e330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 18:48:28</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>a7233a67293611108c2988ea3d71a7e5</update_guid>
+        <update_guid_history>a7233a67293611108c2988ea3d71a7e5:1579404580,ebe2be67cc361110781801c1eb78f7b0:-1709177373</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 18:48:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>2ccb1059ca1348f98a3dee060f23a259</sys_id>
+        <sys_metadata>6be2be6747361110bd513e58c26d43ae</sys_metadata>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_928932_world_gla">dce09e6f47721110bd513e58c26d4363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">dce09e6f47721110bd513e58c26d4363</sys_scope>
+        <sys_scope_delete display_value="">32c8efa5fc624d6a991e31e1fdaf9304</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_6be2be6747361110bd513e58c26d43ae</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_6be2be6747361110bd513e58c26d43ae">6f233a6747361110bd513e58c26d43e5</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
